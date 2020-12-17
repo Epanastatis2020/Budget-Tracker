@@ -29,7 +29,7 @@ To install Budget Tracker:
 
 1. Copy this repo to your local machine
 2. Open a terminal window and navigate to the local directory.
-3. Run 'npm install'.
+3. Run `npm install`.
 4. Create a new mongodb database called "budget-tracker".
 5. Create a .env file in the root directory of the application. Add the following entry:
 `MONGODB_URI=connectionstring`, replacing _connectionstring_ with the connection string for your database.
