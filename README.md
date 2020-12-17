@@ -12,8 +12,6 @@ This application allows users to track their budget by making credit and debit t
 - [Usage](#usage)
 - [License](#license)
 - [Images](#images)
-- [Video](#video)
-- [Tests](#tests)
 - [Contact](#contact)
 
 ## User Story
